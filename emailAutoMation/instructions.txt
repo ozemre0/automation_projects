@@ -1,0 +1,10 @@
+İsme özel toplu olarak mail gönderiyoruz burada. Google sheets kullanarak toplu isme özel mail gönder.
+
+Örnek sheet:
+ https://docs.google.com/spreadsheets/d/1dwbGMKT68xTdaX_mCMl3EhXqg8sVEC0FDtQ9-sHARjw/edit?gid=0#gid=0
+
+Nasıl kullanılır?
+1-Uzantılara tıkla
+2-Apps komut dosyasına gir
+3-Kodu yapıştır 
+4-Çalıştır
