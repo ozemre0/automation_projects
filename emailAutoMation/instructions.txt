@@ -4,7 +4,21 @@
  https://docs.google.com/spreadsheets/d/1dwbGMKT68xTdaX_mCMl3EhXqg8sVEC0FDtQ9-sHARjw/edit?gid=0#gid=0
 
 Nasıl kullanılır?
-1-Uzantılara tıkla
+1-"Uzantılar"a tıkla
 2-Apps komut dosyasına gir
 3-Kodu yapıştır 
 4-Çalıştır
+[TR]
+
+We are sending bulk mails specific to the name here. Send bulk mails specific to the name using Google sheets.
+
+Sample sheet:
+https://docs.google.com/spreadsheets/d/1dwbGMKT68xTdaX_mCMl3EhXqg8sVEC0FDtQ9-sHARjw/edit?gid=0#gid=0
+
+How to use?
+1-Click on "Extensions"
+2-Enter the Apps script
+3-Paste the code
+4-Run
+[EN]
+
