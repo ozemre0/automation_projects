@@ -26,13 +26,14 @@ function sendEmails() {
 
     <p>Sevgilerimizle,<br>İyiliği Kodlayanlar Ekibi</p>
   `;
-  
+  // HTML olarak yaptım yoksa mobilden görüntülemdiğinde maildeki satırlarda bozulmalar oldu
+
   // Her satır için e-posta gönderimi
   for (let i = 1; i < data.length; i++) {
-    const name = data[i][0];  // İsim sütunu
-    const email = data[i][3]; // E-posta sütunu
+    const name = data[i][0];  
+    const email = data[i][3]; // sütun düzenine göre ayarlanıcak bu 
     
-    // Şablondaki {{Name}} kısmını dinamik olarak isimle değiştiriyoruz
+    // Şablondaki {{Name}} kısmını isimle değiştiriyoruz
     const emailBody = emailBodyTemplate.replace("{{Name}}", name);
     
     try {
